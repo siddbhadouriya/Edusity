@@ -1,12 +1,24 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Edusity – Responsive React Education Website
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[Live Site Link](https://vercel.com/siddhartha-singhs-projects-e40e0a3c/edusity))
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 Project Description
+Edusity is a modern, fully responsive educational website built using **React**, **HTML**, **CSS**, and **JavaScript**. It offers an elegant UI and smooth user experience across devices.
 
-## Expanding the ESLint configuration
+### ✨ Key Features
+- **Hero Banner** with call-to-action button
+- **About Us** section detailing the mission and vision
+- **Courses** showcase with animated course cards
+- **Testimonials** slider for user feedback
+- **Contact Form** with basic validation
+- **Responsive Design** – works on desktop, tablet, and mobile
+- **Animated Navigation Menu** for mobile view
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+- React.js
+- HTML5 & CSS3
+- JavaScript (ES6)
+- Tailwind CSS or custom CSS (as applicable)
+- GitHub Pages / Vercel for Deployment
