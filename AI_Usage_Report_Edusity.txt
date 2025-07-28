@@ -1,0 +1,32 @@
+
+# AI Usage Report – Edusity: Responsive React Education Website
+
+## Project Summary:
+Built a modern, fully responsive educational website using React, HTML, CSS, and JavaScript. Key sections include Hero Banner, About Us, Courses, Testimonials, and Contact Form with clean UI and responsive design.
+
+## AI Tools Used:
+- ChatGPT: For code generation, responsive layout suggestions, and design ideas.
+- GitHub Copilot: For writing repetitive code such as props passing, component structure, and CSS classes.
+- v0.dev (optional): For quickly prototyping UI components (e.g., course cards, testimonial layout).
+
+## Example Prompts Used with ChatGPT:
+1. “Create a responsive navigation bar in React with animated mobile menu using Tailwind CSS”
+2. “Design a course card component with hover animation using HTML and CSS”
+3. “Write smooth scroll functionality for navigation links in JavaScript”
+4. “How to create a testimonial slider in React using basic CSS?”
+
+## AI Tool Usage Breakdown:
+- Component Planning: Used ChatGPT to plan the structure of components like Hero, Courses, and Footer.
+- UI/UX Improvements: Asked ChatGPT for UI suggestions (e.g., “What should be in an About Us section for an education site?”)
+- Debugging Help: Used ChatGPT to fix responsive layout bugs and alignment issues.
+- Copilot Usage: Autocompleted classNames, React hooks setup (e.g., useState, useEffect) in small components.
+
+## Impact of AI Tools:
+- Reduced development time by ~30%.
+- Improved design consistency and code readability.
+- Faster debugging and smoother animation implementation.
+
+## Submission Format:
+- GitHub Link: [your GitHub repo link]
+- Live Demo: [your Vercel/Netlify link]
+- AI Report: [this document link or GitHub file]
